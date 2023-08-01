@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @khush1yaaar
 - 👀 I’m interested in App Development
+  
 -🌱 I’m currently learning
 -  JAVA
 -  Data Structures
 -  HTML
 -  CSS
 - 💞️ I’m looking to contribute in Open Source
+  
 -📫 How to reach me
 - Email- ksoni.param@gmail.com
 - Instagram- khushi_yaaar
