@@ -4,8 +4,6 @@
 -🌱 I’m currently learning
 -  JAVA
 -  Data Structures
--  HTML
--  CSS
 -  I’m looking to contribute in Open Source
   
 -📫 How to reach me
