@@ -6,7 +6,7 @@
 -  Data Structures
 -  HTML
 -  CSS
-- 💞️ I’m looking to contribute in Open Source
+-  I’m looking to contribute in Open Source
   
 -📫 How to reach me
 - Email- ksoni.param@gmail.com
