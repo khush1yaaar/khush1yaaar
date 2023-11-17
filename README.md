@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @khush1yaaar
 - 👀 I’m interested in App Development
+- flutter developer
   
 -🌱 I’m currently learning
 -  JAVA
@@ -8,7 +9,7 @@
   
 -📫 How to reach me
 - Email- ksoni.param@gmail.com
-- Instagram- khushi_yaaar
+- Instagram - @khushi_yaaar
 
 <!---
 khush1yaaar/khush1yaaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
