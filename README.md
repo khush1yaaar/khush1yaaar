@@ -12,7 +12,6 @@
 - **Email**: [khushisoni81090@gmail.com](mailto:khushisoni81090@gmail.com)
 
 ### Connect with me:
-[![GitHub](https://img.shields.io/badge/-KhushiSoni-black?style=for-the-badge&logo=github)](https://github.com/KhushiSoni81090)
 [![LinkedIn](https://img.shields.io/badge/-KhushiSoni-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/KhushiSoni81090)
 
 ---
