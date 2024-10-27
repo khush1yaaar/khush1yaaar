@@ -8,16 +8,12 @@
 - Strong understanding of app development, user experience, and interface design
 - Thrives in fast-paced environments, delivering reliable solutions on time
 
-### 👨‍💻 Check out my portfolio:
-[khushisoni.netlify.app](https://khushisoni.netlify.app) *(Update with your actual link if needed)*
-
 ### 📫 How to reach me:
 - **Email**: [khushisoni81090@gmail.com](mailto:khushisoni81090@gmail.com)
 
 ### Connect with me:
 [![GitHub](https://img.shields.io/badge/-KhushiSoni-black?style=for-the-badge&logo=github)](https://github.com/KhushiSoni81090)
 [![LinkedIn](https://img.shields.io/badge/-KhushiSoni-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/KhushiSoni81090)
-[![Instagram](https://img.shields.io/badge/-khayal.soni-purple?style=for-the-badge&logo=instagram)](https://instagram.com/khayal.soni)
 
 ---
 
